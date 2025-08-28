@@ -7,5 +7,4 @@
   [Перейти в папку](./tg-bot-library)
 
 - **Бот-магазин кроссовок**  
-  Telegram-бот с интеграцией PostgreSQ  
   [Перейти в папку](./tg-bot-shopOfSneakers-not real)
