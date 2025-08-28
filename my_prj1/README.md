@@ -7,4 +7,4 @@
   [Перейти в папку](./tg-bot-library)
 
 - **Бот-магазин кроссовок**  
-  [Перейти в папку](./tg-bot-shopOfSneakers-not real)
+  [Перейти в папку](./tg-bot-shopOfSneakers-not)
